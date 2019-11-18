@@ -1,7 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4be639cd-7ed0-4e75-b683-6f6a03b32c4c" name="Default Changelist" comment="" />
+    <list default="true" id="4be639cd-7ed0-4e75-b683-6f6a03b32c4c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Contour Feartures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ROIextrection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Specific color erase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/camShift.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imageBlending.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/movingThingExtrection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rectangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rectangle2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shapeExtraction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tracker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/cv2/cv2.cp37-win_amd64.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/cv2/cv2.cp37-win_amd64.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/_dummy.cp37-win_amd64.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/_dummy.cp37-win_amd64.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/_multiarray_tests.cp37-win_amd64.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/_multiarray_tests.cp37-win_amd64.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/_multiarray_umath.cp37-win_amd64.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/_multiarray_umath.cp37-win_amd64.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/_operand_flag_tests.cp37-win_amd64.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/_operand_flag_tests.cp37-win_amd64.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/_rational_tests.cp37-win_amd64.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/_rational_tests.cp37-win_amd64.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/_struct_ufunc_tests.cp37-win_amd64.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/_struct_ufunc_tests.cp37-win_amd64.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/_umath_tests.cp37-win_amd64.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/_umath_tests.cp37-win_amd64.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/fft/_pocketfft_internal.cp37-win_amd64.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/fft/_pocketfft_internal.cp37-win_amd64.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/linalg/_umath_linalg.cp37-win_amd64.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/linalg/_umath_linalg.cp37-win_amd64.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/linalg/lapack_lite.cp37-win_amd64.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/linalg/lapack_lite.cp37-win_amd64.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/random/bit_generator.cp37-win_amd64.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/random/bit_generator.cp37-win_amd64.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/random/bounded_integers.cp37-win_amd64.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/random/bounded_integers.cp37-win_amd64.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/random/common.cp37-win_amd64.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/random/common.cp37-win_amd64.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/random/generator.cp37-win_amd64.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/random/generator.cp37-win_amd64.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/random/mt19937.cp37-win_amd64.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/random/mt19937.cp37-win_amd64.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/random/mtrand.cp37-win_amd64.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/random/mtrand.cp37-win_amd64.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/random/pcg64.cp37-win_amd64.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/random/pcg64.cp37-win_amd64.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/random/philox.cp37-win_amd64.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/random/philox.cp37-win_amd64.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/random/sfc64.cp37-win_amd64.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/random/sfc64.cp37-win_amd64.pyd" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,9 +48,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1TBwjTPESz2UA8Cb18chvZ7FeOX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/openCV.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/shapeExtraction.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -50,7 +87,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/openCV.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/shapeExtraction.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -77,5 +114,18 @@
       <updated>1572946931999</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
