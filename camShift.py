@@ -1,7 +1,7 @@
 import numpy as np
 import cv2
 
-cap = cv2.VideoCapture('cardBlack.mp4')
+cap = cv2.VideoCapture(0)
 
 # take first frame of the video
 ret, frame = cap.read()
